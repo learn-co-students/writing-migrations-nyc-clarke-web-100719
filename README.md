@@ -1,6 +1,6 @@
 # Let's Write Some Migrations
 
-## Objectives
+## Objectivesa
 
 - Write your own migrations
 - Run a migration to create a table
